@@ -15,6 +15,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/demo.gif" width="420" alt="Пример работы бота">
+</p>
+<p align="center"><i>Пример работы команды /price</i></p>
+
+
 ## 🛠 Стек технологий
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
